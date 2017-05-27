@@ -1,1 +1,1 @@
-This is the README file. This is added to new repository
+This is the README file. 
